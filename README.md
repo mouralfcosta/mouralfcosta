@@ -33,8 +33,6 @@ Sou focado em transformar dados em inteligência e construir arquiteturas robust
 
 ### ⚙️ Metodologias Ágeis
 * **Frameworks:** Scrum & Kanban
-* **Ferramentas:** Trello, Jira, Git.
-
 ---
 
 ## 📫 Vamos nos conectar?
